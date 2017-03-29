@@ -1,7 +1,6 @@
 # PAT-B
 An exam organized by ZJU
 
-Moralok here. I am studing C++.
-Nice to meet you.
-Training does help me understand the data struct.
+Here is Moralok. I am studing C++.
+Coding does help me understand the data struction.
 Thanks to every blogs I have seen.
